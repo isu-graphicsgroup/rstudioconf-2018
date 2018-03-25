@@ -16,7 +16,84 @@ output:
 options(htmltools.dir.version = FALSE)
 ```
 
+class: center, top
+
 background-image: url(https://www.rstudio.com/wp-content/uploads/2016/09/RStudio-Logo-Blue-Gray-250.png)
+
+# Tutorials
+
 
 ---
 
+# Intermediate Shiny
+
+---
+
+# Big Data with R
+
+---
+
+class: center, top
+
+background-image: url(https://www.rstudio.com/wp-content/uploads/2016/09/RStudio-Logo-Blue-Gray-250.png)
+
+# Keynotes
+
+---
+
+.pull-left[
+** JJ Allaire **
+
+<p><a href="https://www.rstudio.com/resources/videos/machine-learning-with-tensorflow-and-r/?wvideo=ydrj2gu733"><img src="https://embedwistia-a.akamaihd.net/deliveries/93d52aff44e430136d88e08cf2634a1d00fe42cd.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=4287c7e0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://www.rstudio.com/resources/videos/machine-learning-with-tensorflow-and-r/?wvideo=ydrj2gu733">Machine Learning with TensorFlow and R – RStudio</a></p>
+
+]
+
+.pull-right[
+
+- keynote on Tensorflow
+
+]
+
+
+???
+
+To "embed" videos, find it at the RStudio web site, then right-click the video and choose "Copy link and thumbnail". Copy the HTML here.
+
+---
+
+.pull-left[
+** Di Cook **
+
+<p><a href="https://www.rstudio.com/resources/videos/to-the-tidyverse-and-beyond/?wvideo=astmn91a3f"><img src="https://embedwistia-a.akamaihd.net/deliveries/7926e7b7971f72ea96b909412a9a7ebfe41fcf56.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=4287c7e0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://www.rstudio.com/resources/videos/to-the-tidyverse-and-beyond/?wvideo=astmn91a3f">To the Tidyverse and beyond – RStudio</a></p>
+
+]
+
+.pull-right[
+
+- keynote on visual inference
+
+]
+
+---
+
+class: center, top
+
+background-image: url(https://www.rstudio.com/wp-content/uploads/2016/09/RStudio-Logo-Blue-Gray-250.png)
+
+# Talks
+
+---
+
+class: center, top
+
+background-image: url(https://www.rstudio.com/wp-content/uploads/2016/09/RStudio-Logo-Blue-Gray-250.png)
+
+# Materials
+
+---
+
+- [Videos](https://www.rstudio.com/resources/webinars/#rstudioconf2018)
+
+- [Materials](https://github.com/rstudio/rstudio-conf)
+
+- [Neat roundup](https://github.com/simecek/RStudioConf2018Slides)
