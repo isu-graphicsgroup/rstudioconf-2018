@@ -2,7 +2,7 @@
 title: "rstudio::conf(2018L)"
 subtitle: "ISU Graphics Group Presentation"
 author: "Haley Jeppson & Ian Lyttle"
-date: "2018-04-31"
+date: "2018-04-01"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -81,6 +81,73 @@ class: center, top
 background-image: url(https://www.rstudio.com/wp-content/uploads/2016/09/RStudio-Logo-Blue-Gray-250.png)
 
 # Talks
+
+---
+
+.pull-left[
+
+]
+
+.pull-right[
+
+]
+
+---
+
+.pull-left[
+**Emily Reiderer**
+
+<p><a href="https://www.rstudio.com/resources/videos/tidycf-turning-analysis-on-its-head-by-turning-cashflows-on-their-sides/?wvideo=ppf47stsfv"><img src="https://embedwistia-a.akamaihd.net/deliveries/452437ca9eae066638a4b348380256e1fdcb873b.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=4287c7e0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://www.rstudio.com/resources/videos/tidycf-turning-analysis-on-its-head-by-turning-cashflows-on-their-sides/?wvideo=ppf47stsfv">tidycf: Turning analysis on its head by turning cashflows on their sides – RStudio</a></p>
+]
+
+.pull-right[
+
+]
+
+---
+
+.pull-left[
+
+]
+
+.pull-right[
+
+]
+
+---
+
+.pull-left[
+**Jenny Bryan**
+
+<p><a href="https://www.rstudio.com/resources/videos/data-rectangling/?wvideo=w38cw9u355"><img src="https://embedwistia-a.akamaihd.net/deliveries/0d6ce9d16f75b02426d460c7db97ec6410606852.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=4287c7e0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://www.rstudio.com/resources/videos/data-rectangling/?wvideo=w38cw9u355">Data rectangling – RStudio</a></p>
+]
+
+.pull-right[
+
+]
+
+---
+
+.pull-left[
+
+]
+
+.pull-right[
+
+]
+
+---
+
+.pull-left[
+**Hadley Wickham**
+
+<p><a href="https://www.rstudio.com/resources/videos/tidy-eval-programming-with-dplyr-tidyr-and-ggplot2/?wvideo=u1xmqacpom"><img src="https://embedwistia-a.akamaihd.net/deliveries/e8fa471fd00d5094f6714a4865afea2cb456269c.jpg?image_play_button_size=2x&amp;image_crop_resized=960x540&amp;image_play_button=1&amp;image_play_button_color=4287c7e0" width="400" height="225" style="width: 400px; height: 225px;"></a></p><p><a href="https://www.rstudio.com/resources/videos/tidy-eval-programming-with-dplyr-tidyr-and-ggplot2/?wvideo=u1xmqacpom">Tidy eval: Programming with dplyr, tidyr, and ggplot2 – RStudio</a></p>
+
+]
+
+.pull-right[
+
+]
 
 ---
 
